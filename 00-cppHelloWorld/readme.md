@@ -1,4 +1,3 @@
-Autor de la resolucion:
 
   Nombre: Franco
 
