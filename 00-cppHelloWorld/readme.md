@@ -1,12 +1,12 @@
 Autor de la resolucion:
 
-.Nombre: Franco
+  Nombre: Franco
 
-.Apellido: Torres Najarro
+  Apellido: Torres Najarro
 
-.Legajo: 1554451
+  Legajo: 1554451
 
-.Usuario git: frantorr1
+  Usuario git: frantorr1
 
 Trabajo Nro 00-HelloWorld
 
